@@ -1,1 +1,1 @@
-This is a simple dashboard made for sales data with the help of excel.I made this with the help of a youtube tutorial.I have modified it according to my needs and with the little knowledge which i have of excel.
+This is a simple dashboard made for sales data with the help of excel.I made this with the help of youtube tutorial.I have modified it according to my needs and with the little knowledge which i have of excel.
